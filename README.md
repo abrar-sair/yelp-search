@@ -10,7 +10,7 @@ This sample inclues following features
 Yelp fusion API is dependent on user's location and it requires to pass location (address/city/state/zip code) or Latitue/Longitues.
 This Sample make use of Fused location provider to get current location of the user. Requesting runtime location permission is also handled
 
-#Third party libraries
+# Third party libraries
 - Retrofit (network)
 - Picaso (Image loading)
 - Gson (Json parsong)
