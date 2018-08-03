@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yelp Search</string>
+    <string name="search_filter">filter</string>
+    <string name="ratting">Ratting</string>
+    <string name="search_business">business name</string>
+    <string name="search_address">Address/city/postal code</string>
+    <string name="search_type">Cuisine type</string>
+    <string name="distance">Distance</string>
+    <string name="search_by">Search by</string>
+    <string name="sort_by">Sort by</string>
+    <string name="button_apply">Apply</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="customise_you_search_results">Customise you search results</string>
+
+</resources>
