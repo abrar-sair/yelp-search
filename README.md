@@ -14,5 +14,8 @@ This Sample make use of Fused location provider to get current location of the u
 - Retrofit (network)
 - Picaso (Image loading)
 - Gson (Json parsong)
-- Floating search View (Search)
+- Floating search view (Search)
 - RXJava (Threading and callbacks)
+
+# Design patteren 
+- MVP design patteren is used to develp this sample project.
